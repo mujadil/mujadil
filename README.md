@@ -10,11 +10,16 @@
 - 📝 I regularly write articles on <a href="https://medium.com/@mujadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mujadil" height="30" width="40" /></a>
 </p>
 
-- 💬 Ask me about **mern , c++ , data strutures, java script**
-### hacktoberfest
+- 💬 Ask me about **Mern , C++ , Data strutures, java script**
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Farewell to Freedom: Unveiling the Emotional Saga of Attack on Titan's Final Chapter](https://mujadil.medium.com/farewell-to-freedom-unveiling-the-emotional-saga-of-attack-on-titans-final-chapter-2b050b12b6e4)
+- [Building the Ultimate Gaming Rig: Unleashing Power with Ryzen 5 2600X and GTX 1660 Super](https://mujadil.medium.com/building-the-ultimate-gaming-rig-unleashing-power-with-ryzen-5-2600x-and-gtx-1660-super-4c87b821ed33)
+- [Hacking the Fest: My Journey through Hacktoberfest](https://mujadil.medium.com/hacking-the-fest-my-journey-through-hacktoberfest-37ff7ff4788d)
+- [London Dapper: Conquering Winter in Style with M&S Menswear and the Irresistible Sweater Vest](https://medium.com/@mujadil/london-dapper-conquering-winter-in-style-with-m-s-menswear-and-the-irresistible-sweater-vest-c5c754231b36)
+
 
 <!-- BLOG-POST-LIST:END -->
 
