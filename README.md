@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **flutter**
 
-- 📝 I regularly write articles on <a href="https://medium.com/@mujadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mujadil" height="30" width="40" /></a>
+- 📝 I weekly write articles on <a href="https://medium.com/@mujadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mujadil" height="30" width="40" /></a>
 </p>
 
 - 💬 Ask me about **Mern , C++ , Data strutures, java script**
