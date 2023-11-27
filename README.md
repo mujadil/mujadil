@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Revitalizing Pakistani Football: Unraveling the Issues and Charting a Path Forward](https://medium.com/@mujadil/revitalizing-pakistani-football-unraveling-the-issues-and-charting-a-path-forward-349160bfa477)
 - [Farewell to Freedom: Unveiling the Emotional Saga of Attack on Titan's Final Chapter](https://mujadil.medium.com/farewell-to-freedom-unveiling-the-emotional-saga-of-attack-on-titans-final-chapter-2b050b12b6e4)
 - [Building the Ultimate Gaming Rig: Unleashing Power with Ryzen 5 2600X and GTX 1660 Super](https://mujadil.medium.com/building-the-ultimate-gaming-rig-unleashing-power-with-ryzen-5-2600x-and-gtx-1660-super-4c87b821ed33)
 - [Hacking the Fest: My Journey through Hacktoberfest](https://mujadil.medium.com/hacking-the-fest-my-journey-through-hacktoberfest-37ff7ff4788d)
