@@ -3,14 +3,14 @@
 <img src="m.gif" width="430"> </p>
 <h3>A Passionate Developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Mern stack**
+- 🔭 I’m currently working on **Data**
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **data Analytics**
 
 - 📝 I weekly write articles on <a href="https://medium.com/@mujadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mujadil" height="30" width="40" /></a>
 </p>
 
-- 💬 Ask me about **Mern , C++ , Data strutures, java script**
+- 💬 Ask me about **C++ , Data strutures, java script, python, data science**
 
 
 ### Blogs posts
