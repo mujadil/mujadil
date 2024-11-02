@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Syed Mujadil Ahmad Hazqeel</h1>
 <p align="center"> 
-<img src="m.gif" width="430"> </p>
-<h3>A Passionate Developer from Pakistan</h3>
+
+  ## Badge Collection on Holopin
+
+Take a look at my badge collection on Holopin!  
+[![Holopin Badges](https://holopin.me/emojismah)](https://holopin.io/@emojismah)
+
 
 - 🔭 I’m currently working on **Data**
 
-- 🌱 I’m currently learning **data Analytics**
+- 🌱 I’m currently learning **Data Analytics**
 
-- 📝 I weekly write articles on <a href="https://medium.com/@mujadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mujadil" height="30" width="40" /></a>
+- 📝 I occasionally write articles on <a href="https://medium.com/@mujadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mujadil" height="30" width="40" /></a>
 </p>
 
 - 💬 Ask me about **C++ , Data strutures, java script, python, data science**
