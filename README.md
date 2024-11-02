@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Mujadil Ahmad Hazqeel</h1>
 <p align="center"> 
 
-  ## Badge Collection on Holopin
-
-Take a look at my badge collection on Holopin!  
+  ### Badge Collection on Holopins
 [![Holopin Badges](https://holopin.me/emojismah)](https://holopin.io/@emojismah)
 
 
